@@ -11,13 +11,20 @@ Most of what I know came from building things: trying an idea, breaking it, rebu
 ### [CodeCanvas](https://github.com/awmhathif/CodeCanvas)
 A public archive of **~286 browser apps and experiments** — tools, games, editors, audio projects, visual systems, utilities, simulations, and creative coding experiments.
 
-### Neon Notes
+### [Neon Notes](projects/neon-notes.md)
 A local-first Android notes app focused on speed, privacy, customization, and a more expressive interface than the usual notes app.
 
-[Google Play](https://play.google.com/store/apps/details?id=com.notes.neon.android)
+[Google Play](https://play.google.com/store/apps/details?id=com.notes.neon.android) · [Case study](projects/neon-notes.md)
 
-### [VoidCanvas](https://voidcanvas.xyz)
-An AI creation platform and one of the larger projects I’ve been building around creative AI workflows.
+### [VoidCanvas](projects/voidcanvas.md)
+A full-stack AI creation platform built around creative workflows rather than a single one-shot generator.
+
+[Live site](https://voidcanvas.xyz) · [Case study](projects/voidcanvas.md)
+
+### [RoomDrop](projects/roomdrop.md)
+A local-first browser notes and capture extension for saving selected text, links, sources, and notes into a private browser workspace.
+
+[Case study](projects/roomdrop.md) · [Privacy repository](https://github.com/awmhathif/RoomDrop-Privacy-Policy)
 
 ## How I work
 
