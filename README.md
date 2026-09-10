@@ -13,6 +13,11 @@ A local-first Android notes app focused on speed, privacy, customization, and a 
 
 [Google Play](https://play.google.com/store/apps/details?id=com.notes.neon.android) · [Case study](projects/neon-notes.md)
 
+### [ResiliCapture](https://github.com/awmhathif/ResiliCapture)
+A local-first Windows screen recorder built around recording reliability: recoverable chunks, verified saves, long-timelapse capture, and privacy-first local storage.
+
+[Source](https://github.com/awmhathif/ResiliCapture) · [Releases](https://github.com/awmhathif/ResiliCapture/releases)
+
 ### [Quote Studio](https://github.com/awmhathif/Quote-builder)
 A browser-based quote design studio built with HTML, CSS, vanilla JavaScript and the Canvas API. It supports social-size presets, typography controls, templates, local drafts, image/gradient backgrounds, undo/redo and high-resolution PNG/JPEG export.
 
